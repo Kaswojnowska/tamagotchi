@@ -1,3 +1,4 @@
+#komentarz
 class Tamagotchi:
     def __init__(self, plec_Tamagotchi, imie_Tamagotchi, zwierze_Tamagotchi):
         self.plec = plec_Tamagotchi
