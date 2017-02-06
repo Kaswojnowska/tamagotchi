@@ -1,4 +1,6 @@
+<<<<<<< HEAD
 #komentarz kasia
+>>>>>>> 3b66ce7e816b384053265e2494bf0950c2367035
 class Tamagotchi:
     def __init__(self, plec_Tamagotchi, imie_Tamagotchi, zwierze_Tamagotchi):
         self.plec = plec_Tamagotchi
