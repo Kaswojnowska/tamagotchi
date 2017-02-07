@@ -1,4 +1,4 @@
-#komentarz kasia 2
+#początek
 
 class Tamagotchi:
     def __init__(self, plec_Tamagotchi, imie_Tamagotchi, zwierze_Tamagotchi):
